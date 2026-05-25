@@ -1,0 +1,30 @@
+{
+  "sprint": "Sprint 18",
+  "duration": "2026-05-01 to 2026-05-14",
+  "tasks": [
+    {
+      "id": "ENG-101",
+      "title": "Implement OAuth callback",
+      "assignee": "Arun",
+      "priority": "high",
+      "status": "done",
+      "story_points": 5
+    },
+    {
+      "id": "ENG-102",
+      "title": "Parse repository files",
+      "assignee": "Priya",
+      "priority": "medium",
+      "status": "in-progress",
+      "story_points": 8
+    },
+    {
+      "id": "ENG-103",
+      "title": "Connector UI",
+      "assignee": "Rahul",
+      "priority": "high",
+      "status": "todo",
+      "story_points": 13
+    }
+  ]
+}
