@@ -1,0 +1,20 @@
+{
+  "traffic_sources": [
+    {
+      "source": "Organic Search",
+      "visitors": 54200
+    },
+    {
+      "source": "Direct",
+      "visitors": 22100
+    },
+    {
+      "source": "Social Media",
+      "visitors": 18400
+    },
+    {
+      "source": "Referral",
+      "visitors": 9600
+    }
+  ]
+}
