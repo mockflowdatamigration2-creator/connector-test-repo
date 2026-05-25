@@ -1,0 +1,33 @@
+{
+  "product": "AI Workspace",
+  "quarters": [
+    {
+      "quarter": "Q1 2026",
+      "goals": [
+        {
+          "title": "GitHub Connector",
+          "status": "completed",
+          "owner": "Platform Team",
+          "tasks": 24
+        },
+        {
+          "title": "Slack Integration",
+          "status": "in-progress",
+          "owner": "Integrations Team",
+          "tasks": 18
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2026",
+      "goals": [
+        {
+          "title": "Workflow Automation",
+          "status": "planned",
+          "owner": "AI Team",
+          "tasks": 32
+        }
+      ]
+    }
+  ]
+}
