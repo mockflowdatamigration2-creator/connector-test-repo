@@ -1,0 +1,7 @@
+{
+  "github_connector": true,
+  "slack_connector": false,
+  "ai_assistant": true,
+  "advanced_search": true,
+  "real_time_sync": false
+}
