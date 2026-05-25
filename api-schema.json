@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "name": "Auth Service",
+      "endpoint": "/api/auth",
+      "methods": ["POST", "GET"]
+    },
+    {
+      "name": "GitHub Connector",
+      "endpoint": "/api/connectors/github",
+      "methods": ["GET"]
+    }
+  ]
+}
